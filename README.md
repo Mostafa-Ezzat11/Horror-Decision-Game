@@ -16,7 +16,8 @@ Each decision affects the storyline, creating a unique experience every time the
 ## 🧠 Technologies Used in The Project
 - Python  
 - Random module  
-- Functions & Conditional Logic  
+- Conditional Logic & Loops
+- Functional Programing
 
 ## ▶️ How to Run the Game
 1. Make sure Python is installed on your device......
