@@ -23,11 +23,11 @@ Each decision affects the storyline, creating a unique experience every time the
 1. Make sure Python is installed on your device......
 2. Run the game using any IDE Run Python Files......
 
-👨‍💻 Author
+## 👨‍💻 Author
 Mostafa Ezzat
 
 GitHub: Mostafa-Ezzat11
 Email: Mostafa.ezzatx@gmail.com
 
-📞 Support
+## 📞 Support
 For supports, number +201121923424
