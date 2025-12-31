@@ -26,8 +26,8 @@ Each decision affects the storyline, creating a unique experience every time the
 ## 👨‍💻 Author
 Mostafa Ezzat
 
-GitHub: Mostafa-Ezzat11
-Email: Mostafa.ezzatx@gmail.com
+- GitHub: Mostafa-Ezzat11
+- Email: Mostafa.ezzatx@gmail.com
 
 ## 📞 Support
 For supports, number +201121923424
