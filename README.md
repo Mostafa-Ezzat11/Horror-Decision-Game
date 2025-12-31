@@ -1,21 +1,23 @@
-# Horror Decision Game
+# Horror Decision Game 👻
 
-An interactive Horror Decision Game built using Python.
+A text-based horror adventure game built using Python, where every decision you make can change the outcome of the story.
 
-## Description
-This game allows the player to make choices that affect the storyline and ending.  
-It includes:
-- Multiple decision paths  
-- Randomized events  
-- Score system  
-- Replay feature  
+## 🕹️ Game Description
+In this game, the player experiences a suspenseful horror story filled with unexpected events, dangerous choices, and multiple endings.  
+Each decision affects the storyline, creating a unique experience every time the game is played.
 
-## Technologies Used in The Game
-- Python
-- Random module
-- Control flow (if/else, loops)
-- Functions
+## ⚙️ Features
+- Interactive decision-based gameplay  
+- Multiple endings based on player choices  
+- Random events for unpredictability  
+- Scoring system  
+- Replay functionality  
 
-## How to Run The Game
-1. Make sure Python is installed on your devise......
-2. Run the game using any IDE That Run Python Files......
+## 🧠 Technologies Used in The Project
+- Python  
+- Random module  
+- Functions & Conditional Logic  
+
+## ▶️ How to Run the Game
+1. Make sure Python is installed on your device......
+2. Run the game using any IDE Run Python Files......
